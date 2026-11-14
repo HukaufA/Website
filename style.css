@@ -65,6 +65,13 @@ a:hover { color: var(--accent-dark); }
   font-size: 0.95rem;
 }
 .nav a:hover { color: var(--accent); }
+.nav a.lang {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0 8px;
+  font-weight: 600;
+  color: var(--accent);
+}
 
 /* Hero */
 .hero {
