@@ -86,7 +86,15 @@ a:hover { color: var(--accent-dark); }
   text-decoration: none;
   letter-spacing: 0.2px;
 }
-.logo span { color: var(--accent); }
+.logo span { color: var(--accent); margin-left: 0.25em; }
+.logo { display: inline-flex; align-items: center; }
+.logo-mark {
+  width: 32px;
+  height: 32px;
+  border-radius: 7px;
+  margin-right: 10px;
+  flex-shrink: 0;
+}
 .nav { display: flex; gap: 20px; flex-wrap: wrap; }
 .nav a {
   color: var(--muted);
