@@ -1,0 +1,29 @@
+# Hukauf Consulting
+
+> Hukauf Consulting ist ein IT-Beratungsunternehmen (Einzelunternehmen) von Andre Hukauf mit Sitz in Vorra im Nürnberger Land (Mittelfranken, Bayern). Angeboten werden Prozessberatung, Lösungsarchitektur, Beratung und Umsetzung von IT-Infrastruktur sowie Softwareentwicklung in C# und Python für mittelständische Unternehmen – vor Ort in Vorra, Nürnberg, Hersbruck, Lauf an der Pegnitz und ganz Mittelfranken sowie remote deutschlandweit. Arbeitssprachen: Deutsch und Englisch.
+
+Beratung und Umsetzung aus einer Hand: Anforderungen werden gemeinsam mit den Fachabteilungen erarbeitet, die Lösung anschließend selbst umgesetzt. Herstellerneutral.
+
+## Leistungen
+
+- [Prozessberatung](https://www.hukauf.de/leistungen/prozessberatung.html): Analyse bestehender Abläufe, Medienbrüche und Engpässe erkennen, Soll-Prozesse und Anforderungen definieren, Digitalisierung dort, wo sie sich lohnt.
+- [Lösungsarchitektur](https://www.hukauf.de/leistungen/loesungsarchitektur.html): Systemlandschaft und Schnittstellen, Technologie- und Produktauswahl, Entscheidungsgrundlagen für die Geschäftsführung.
+- [IT-Infrastruktur – Beratung & Umsetzung](https://www.hukauf.de/leistungen/infrastruktur.html): Cloud (Microsoft Azure) und On-Premises, Container und Kubernetes, Migration bestehender Systeme, Betrieb und Monitoring.
+- [Softwareentwicklung in C# & Python](https://www.hukauf.de/leistungen/softwareentwicklung.html): Individuelle Anwendungen, Schnittstellen und Systemintegration, Automatisierung, Datenverarbeitung.
+
+## Kontakt
+
+- Inhaber: Andre Hukauf
+- Adresse: Am Schlosspark 9, 91247 Vorra, Deutschland
+- Telefon: +49 9152 9214561
+- E-Mail: info@hukauf.de
+- Website: https://www.hukauf.de/
+
+## English
+
+- [English home page](https://www.hukauf.de/en/): IT and process consulting, solution architecture, infrastructure and C#/Python development for mid-sized companies, based in Vorra near Nuremberg, Germany.
+
+## Optional
+
+- [Impressum](https://www.hukauf.de/impressum.html)
+- [Datenschutz](https://www.hukauf.de/datenschutz.html)
